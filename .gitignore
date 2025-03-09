@@ -1,0 +1,9 @@
+# .gitignore file for .NET projects
+bin/
+obj/
+node_modules/
+.vs/
+.vscode/
+*.user
+*.suo
+*.log
